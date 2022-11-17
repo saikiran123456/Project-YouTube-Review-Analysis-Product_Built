@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct 30 21:06:22 2022
-
-@author: AbhiSai
-"""
+# Importing the required libraries
 import streamlit as st
 import pandas as pd
 import numpy as np
