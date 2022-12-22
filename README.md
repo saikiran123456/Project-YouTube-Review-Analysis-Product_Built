@@ -2,15 +2,11 @@
 YouTube Channel and Review Analysis
 
 ### Problem Statement
-As we all know the importance of maintaining consistency in any industry is difficult. And every organisation maintains a certain method of reaching the public to know if the service provided by them is acceptable? 
- 
-So, in the present generation every company/Organisation holds a social media account. Now we will develop a sort of application which can help different customers to know the customer's interest, which is very important nowadays.
- 
-As a Data scientist, I will analyse the data available in YouTube to help our clients in different ways. 
+As we all know, maintaining consistency in any industry is complex. And every organization maintains a certain method of reaching the public to know if their service is acceptable.   So, in the present generation, every company/Organisation holds a social media account. Now we will develop a sort of application which can help different customers to know the customer's interests, which is very important nowadays.   As a Data scientist, I will analyze the data available on YouTube to help our clients in different ways.
 
-Here, I have created a robust system product that Automates the process of Data Collection from Source, EDA, Data Preprocessing, Feature Engineering, and deployment :Displaying Dashboard(with multiple Visuals to see the insights)
+Here, I have created a robust system product that Automates the process of Data Collection from Source, EDA, Data Preprocessing, Feature Engineering, and deployment: Displaying a Dashboard(with multiple Visuals to see the insights)
 
-Extensive Research and Development has been put in this project by me, Several Changes have been re-made to make this Entire Pipeline!
+Extensive Research and Development have been put into this project by me, Several Changes have been re-made to make this Entire Pipeline!
 
 ### My Project Architecture:
 ![image](https://user-images.githubusercontent.com/37768258/205456811-3b5ed4d8-c7ae-4dc3-8f23-3897605a0992.png)
